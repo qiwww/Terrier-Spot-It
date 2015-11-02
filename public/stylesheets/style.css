@@ -1,0 +1,12 @@
+body {
+  padding: 50px;
+  font: 20px "Lato", Helvetica, Arial, sans-serif;
+}
+
+#map {
+  width: 1000px;
+  height: 600px;
+}
+a {
+  color: #00B7FF;
+}
