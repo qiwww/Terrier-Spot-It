@@ -14,8 +14,8 @@ After completing CS411 you should be able to understand and use the basic concep
 to plan and execute software projects in any phase. You’ll also be exposed to a variety of tools currently 
 used in software projects in industry.
 
-Team 6's Group Project
-Andrew Li
-Jonathan Liu
-Qi Wang
-Conan Xiao
+Team 6's Group Project  
+Andrew Li  
+Jonathan Liu  
+Qi Wang  
+Conan Xiao  
